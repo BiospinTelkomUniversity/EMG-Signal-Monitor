@@ -1,1 +1,1 @@
-# EKG-Signal-Monitor
+# EMG-Signal-Monitor
